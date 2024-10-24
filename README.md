@@ -2,40 +2,14 @@
 
 Este proyecto es una aplicación de pago utilizando Stripe, construida con un frontend en React y un backend en Node.js con Express y Prisma.
 
-## Estructura del Proyecto
-
-````plaintext
-client/
-    .gitignore
-
-    public/
-
-
-
-
-    src/
-        App.css
-        App.test.tsx
-        App.tsx
-
-        index.tsx
-
-        reportWebVitals.ts
-        setupTests.ts
-
-
-server/
-    .env
-    .gitignore
-
-
-    prisma/
-        migrations/
-            20241024052901_init/
-                migration.sql
-
-````
-
+## Tabla de Contenido
+1. [Configuración del Entorno](#configuración-del-entorno)
+   - [Backend](#backend)
+   - [Frontend](#frontend)
+2. [Uso](#uso)
+3. [Endpoints](#endpoints)
+   - [Crear Payment Intent](#crear-payment-intent)
+4. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
 ## Configuración del Entorno
 
