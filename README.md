@@ -49,8 +49,8 @@ server/
 2. Crea un archivo `.env` en el directorio `server` con el siguiente contenido:
 
     ```env
-    DATABASE_URL="postgresql://postgres:123456@localhost:5432/stripe-payment"
-    STRIPE_SECRET_KEY="sk_test_51QCubJFHd88AYQbonVBYMZ5OFQH8HRwtCbCJDvCtFmokMZ8E8HNNUFzyD9PfVHqjuEfRWJt9dSGCmkJaKNkvq0mB00KpY7IDNC"
+    DATABASE_URL=
+    STRIPE_SECRET_KEY=
     ```
 
 3. Instala las dependencias:
