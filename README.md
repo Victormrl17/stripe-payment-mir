@@ -2,10 +2,6 @@
 
 Este proyecto es una aplicación de pago utilizando Stripe, construida con un frontend en React y un backend en Node.js con Express y Prisma.
 
-# stripe-payment-mir
-
-Este proyecto es una aplicación de pago utilizando Stripe, construida con un frontend en React y un backend en Node.js con Express y Prisma.
-
 ## Estructura del Proyecto
 
 ````plaintext
@@ -38,7 +34,7 @@ server/
             20241024052901_init/
                 migration.sql
 
-
+````
 
 
 ## Configuración del Entorno
